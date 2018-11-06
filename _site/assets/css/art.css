@@ -1,0 +1,38 @@
+.art-entry {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+
+.art-img-w {
+  display: block;
+  margin: 0 auto;
+    width: 100%;
+    background: #F3F3F0;
+    border: 1px solid #DEDFE0;
+	  padding: 2%;
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.art-img-h {
+  display: block;
+  margin: 0 auto;
+    width: 80%;
+    background: #F3F3F0;
+    border: 1px solid #DEDFE0;
+	  padding: 2%;
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.entry-title {
+  margin-top: 5px;
+  margin-bottom: 0;
+}

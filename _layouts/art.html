@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  {% include header.html %}
+  <body>
+    <header>
+      <h1>Phitchaya Mangpo Phothilimthana</h1>
+      {% include navigation.html %}
+    </header>
+    <main>
+      
+    {% for item in site.data.art reversed %}
+    <div class="art-entry">
+      <img class="art-img-{{ item.pos }}" src="art/{{ item.link }}.jpg" align="center">
+      <h3 class="entry-title" align="center">{{ item.title }}</h3>
+      <div class="entry-year" align="center">{{ item.year }}</div>
+    </div>
+    {% endfor %}      
+
+    </main>
+  </body>
+  {% include footer.html %}
+</html>
