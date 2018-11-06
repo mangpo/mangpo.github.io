@@ -141,7 +141,7 @@ li { margin-bottom: 0; }
 /********** Additional styling **********/
 
 .email::after {
-    content: "@eecs.berkeley.edu";
+    content: "@google.com";
 }
 
 .big-icon {
