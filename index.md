@@ -1,6 +1,6 @@
 ---
 layout: front
-title: About
+title: Mangpo
 ---
 
 I am a research scientist at Google Brain. 
