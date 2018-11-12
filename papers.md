@@ -4,8 +4,14 @@ title: Publications
 ---
 ## Conference Papers
 
+- **Swizzle Inventor: Data Movement Synthesis for GPU Kernels.** <br>
+  Phitchaya Mangpo Phothilimthana, Archibald Samuel Elliott, Abhinav Jangda, Bastian Hagedorn,
+  Henrik Barthels, Rastislav Bodik, and Vinod Grover. <br>
+  Architectural Support for Programming Language and Operating Systems (ASPLOS), 2019. <br>
+  (TO APPEAR)
+
 - **Floem: A Programming System for NIC-Accelerated Network Applications.** <br>
-  Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann, Simon Peter, Rastislav Bodik, Thomas Anderson. <br>
+  Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann, Simon Peter, Rastislav Bodik, and Thomas Anderson. <br>
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. ([PDF](papers/floem_osdi_2018.pdf), [slides](talks/1810_floem_osdi.pdf))
 
 
