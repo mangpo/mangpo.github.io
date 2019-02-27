@@ -5,10 +5,11 @@ title: Publications
 ## Conference Papers
 
 - **Swizzle Inventor: Data Movement Synthesis for GPU Kernels.** <br>
-  Phitchaya Mangpo Phothilimthana, Archibald Samuel Elliott, Abhinav Jangda, Bastian Hagedorn,
-  Henrik Barthels, Rastislav Bodik, and Vinod Grover. <br>
+  Phitchaya Mangpo Phothilimthana, Archibald Samuel Elliott, An Wang,
+  Abhinav Jangda, Bastian Hagedorn, Henrik Barthels, Samuel J. Kaufman, 
+  Vinod Grover, Emina Torlak, and Rastislav Bodik. <br>
   Architectural Support for Programming Language and Operating Systems (ASPLOS), 2019. <br>
-  (TO APPEAR)
+  ([PDF](papers/swizzle-inventor-asplos19.pdf))
 
 - **Floem: A Programming System for NIC-Accelerated Network Applications.** <br>
   Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann, Simon Peter, Rastislav Bodik, and Thomas Anderson. <br>
@@ -32,7 +33,7 @@ Phitchaya Mangpo Phothilimthana, Michael Schuldt, and Rastislav Bodik. <br>
 Conference on Languages, Compilers, Tools and Theory for Embedded Systems (LCTES), 2016. ([PDF](papers/chlorophyll-gesture-lctes16.pdf), [slides](talks/1606_chlorophyll_gesture.pdf))
 
 - **Scaling up Superoptimization.** <br>
-Phitchaya Mangpo Phothilimthana, Aditya Thakur, Rastislav Bodik, and Dinakar Dhurjati
+Phitchaya Mangpo Phothilimthana, Aditya Thakur, Rastislav Bodik, and Dinakar Dhurjati. <br>
 Architectural Support for Programming Language and Operating Systems (ASPLOS), 2016. ([PDF](papers/lens-asplos16.pdf), [slides](talks/1604_lens.pdf))
 
 - **GreenThumb: Superoptimizer Construction Framework.** <br>
