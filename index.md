@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Mangpo
+title: Phitchaya Mangpo Phothilimthana
 ---
 
 I am a research scientist at Google Brain. 
