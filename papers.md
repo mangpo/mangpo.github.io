@@ -4,7 +4,7 @@ title: Publications
 ---
 ## Conference Papers
 
-- **E3: energy-efficient microservices on SmartNIC-accelerated servers** <br>
+- **E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers** <br>
   Ming Liu, Simon Peter, Arvind Krishnamurthy, and Phitchaya Mangpo Phothilimthana. <br>
   USENIX Annual Technical Conference (ATC), 2019. <br>
   ([PDF](https://www.usenix.org/system/files/atc19-liu-ming.pdf))
