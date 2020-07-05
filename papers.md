@@ -4,17 +4,21 @@ title: Publications
 ---
 ## Conference Papers
 
+- **E3: energy-efficient microservices on SmartNIC-accelerated servers** <br>
+  Ming Liu, Simon Peter, Arvind Krishnamurthy, and Phitchaya Mangpo Phothilimthana. <br>
+  USENIX Annual Technical Conference (ATC), 2019. <br>
+  ([PDF](https://www.usenix.org/system/files/atc19-liu-ming.pdf))
+
 - **Swizzle Inventor: Data Movement Synthesis for GPU Kernels.** <br>
   Phitchaya Mangpo Phothilimthana, Archibald Samuel Elliott, An Wang,
   Abhinav Jangda, Bastian Hagedorn, Henrik Barthels, Samuel J. Kaufman, 
   Vinod Grover, Emina Torlak, and Rastislav Bodik. <br>
   Architectural Support for Programming Language and Operating Systems (ASPLOS), 2019. <br>
-  ([PDF](papers/swizzle-inventor-asplos19.pdf))
+  ([PDF](papers/swizzle-inventor-asplos19.pdf), [slides](talks/1904_swizzle_inventor_asplos.pdf))
 
 - **Floem: A Programming System for NIC-Accelerated Network Applications.** <br>
   Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann, Simon Peter, Rastislav Bodik, and Thomas Anderson. <br>
   USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. ([PDF](papers/floem_osdi_2018.pdf), [slides](talks/1810_floem_osdi.pdf))
-
 
 - **Data-Driven Synthesis of Full Probabilistic Programs.** <br>
   Sarah Chasins and Phitchaya Mangpo Phothilimthana. <br>
@@ -59,6 +63,10 @@ Algorithm Engineering and Experiments (ALENEX), 2013. ([PDF](papers/cycleseparat
 
 ## Journal & Workshop Papers
 
+- **Learned TPU Cost Model for XLA Tensor Programs** <br>
+  Samuel Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
+  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2019. <br> ([PDF](http://mlforsystems.org/assets/papers/neurips2019/learned_tpu_kaufman_2019.pdf))
+
 - **Short and Simple Cycle Separators in Planar Graphs.** <br>
 Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Sommer. <br>
 Journal of Experimental Algorithmics (JEA), 2016. ([PDF](papers/cycleseparator-jea16.pdf))
@@ -76,13 +84,21 @@ Bjoern Menze, Mangpo Phothilimthana, Olson Beck, Jason Crane, and Polina Golland
 National Alliance for Medical Image s Summer Project week (NAMIC), 2010. ([URL](http://www.na-mic.org/Wiki/index.php/2010_Summer_Project_Week_MRSI_module_and_SIVIC_interface))
 
 ## Technical Reports
+
 - **Dueling Metrics: Choosing the Appropriate Error Metric for Models of Cognition in the Learning Analytics Field.** <br>
 Phitchaya Phothilimthana, Seung Yeon Lee, and Zachary Pardos. <br>
 University of California, Berkeley, 2018. ([PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-7.html))
 
-## Invited Talks
+## Selected Invited Talks
+
+- **Machine Learning for Machine Learning Compilers.** <br>
+  ME344S HPC-AI Guest Lecture, Stanford, 2020. ([slides](talks/202007_ml_for_ml_compilers_stanford.pdf))
+  
+- **Self-Evolving Compilers.** <br>
+  Conference of Program Synthesis, San Franciscos, 2019. ([slides](talks/1909_self_evolving_compilers.pdf))
+  
 - **High-Coverage Hint Generation for Racket Programming Assignments.** <br>
-  RacketCon, 2017. ([slides](talks/1710_hints-racketcon.pdf))
+  RacketCon, Seattle, 2017. ([slides](talks/1710_hints-racketcon.pdf))
 
 
 ## Theses
