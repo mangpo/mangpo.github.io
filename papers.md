@@ -4,6 +4,11 @@ title: Publications
 ---
 ## Conference Papers
 
+- **Transferable Graph Optimizers for ML Compilers** <br>
+  Yanqi Zhou, Sudip Roy, Amirali Abdolrashidi, Daniel Wong, Peter Ma, Qiumin Xu, Hanxiao Liu, Mangpo Phitchaya Phothilimtha, Shen Wang, Anna Goldie, Azalia Mirhoseini, and James Laudon. <br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2020. <br>
+  ([PDF](https://arxiv.org/pdf/2010.12438.pdf))
+
 - **E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers** <br>
   Ming Liu, Simon Peter, Arvind Krishnamurthy, and Phitchaya Mangpo Phothilimthana. <br>
   USENIX Annual Technical Conference (ATC), 2019. <br>
@@ -62,6 +67,10 @@ Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Somm
 Algorithm Engineering and Experiments (ALENEX), 2013. ([PDF](papers/cycleseparator-alenex13.pdf))
 
 ## Journal & Workshop Papers
+
+- **Learning Local Advantage Functions for Generalizable Graph Optimizations** <br>
+  Yifan Wu, Yanqi Zhou, Phitchaya Mangpo Phothilimthana, Hanxiao Liu, Sudip Roy, and Azalia Mirhoseini.<br>
+  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2020. <br>
 
 - **Learned TPU Cost Model for XLA Tensor Programs** <br>
   Samuel Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
