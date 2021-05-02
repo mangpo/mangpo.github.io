@@ -4,8 +4,18 @@ title: Publications
 ---
 ## Conference Papers
 
+- **Equality Saturation for Tensor Graph Superoptimization** <br>
+  Yichen Yang, Phitchaya Mangpo Phothilimthana, Yisu Remy Wang, Max Willsey, Sudip Roy, and Jacques Pienaar <br>
+  Conference on Machine Learning and Systems (MLSys), 2021. <br>
+  ([PDF](https://arxiv.org/pdf/2101.01332.pdf))
+  
+- **A Learned Performance Model for Tensor Processing Units** <br>
+  Samuel J. Kaufman, Phitchaya Mangpo Phothilimthana, Yanqi Zhou, Charith Mendis, Sudip Roy, Amit Sabne, and Mike Burrows. <br>
+  Conference on Machine Learning and Systems (MLSys), 2021. <br>
+  ([PDF](https://arxiv.org/pdf/2008.01040.pdf))
+
 - **Transferable Graph Optimizers for ML Compilers** <br>
-  Yanqi Zhou, Sudip Roy, Amirali Abdolrashidi, Daniel Wong, Peter Ma, Qiumin Xu, Hanxiao Liu, Mangpo Phitchaya Phothilimtha, Shen Wang, Anna Goldie, Azalia Mirhoseini, and James Laudon. <br>
+  Yanqi Zhou, Sudip Roy, Amirali Abdolrashidi, Daniel Wong, Peter Ma, Qiumin Xu, Hanxiao Liu, Phitchaya Mangpo Phothilimthana, Shen Wang, Anna Goldie, Azalia Mirhoseini, and James Laudon. <br>
   Advances in Neural Information Processing Systems (NeurIPS), 2020. <br>
   ([PDF](https://arxiv.org/pdf/2010.12438.pdf))
 
@@ -70,10 +80,10 @@ Algorithm Engineering and Experiments (ALENEX), 2013. ([PDF](papers/cycleseparat
 
 - **Learning Local Advantage Functions for Generalizable Graph Optimizations** <br>
   Yifan Wu, Yanqi Zhou, Phitchaya Mangpo Phothilimthana, Hanxiao Liu, Sudip Roy, and Azalia Mirhoseini.<br>
-  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2020. <br>
+  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2020. <br> ([PDF](https://mlforsystems.org/assets/papers/neurips2020/learning_wu_2020.pdf))
 
 - **Learned TPU Cost Model for XLA Tensor Programs** <br>
-  Samuel Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
+  Samuel J. Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
   ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2019. <br> ([PDF](http://mlforsystems.org/assets/papers/neurips2019/learned_tpu_kaufman_2019.pdf))
 
 - **Short and Simple Cycle Separators in Planar Graphs.** <br>
