@@ -4,6 +4,11 @@ title: Publications
 ---
 ## Conference Papers
 
+- **A Flexible Approach to Autotuning Multi-Pass Machine Learning Compilers** <br>
+  Phitchaya Mangpo Phothilimthana et al. <br>
+   Conference on Parallel Architectures and Compilation Techniques (PACT), 2021. <br>
+  ([PDF](papers/xla-autotuning-pact2021.pdf), [slides](talks/2021-xla-autotuning-pact.pdf))
+  
 - **Equality Saturation for Tensor Graph Superoptimization** <br>
   Yichen Yang, Phitchaya Mangpo Phothilimthana, Yisu Remy Wang, Max Willsey, Sudip Roy, and Jacques Pienaar <br>
   Conference on Machine Learning and Systems (MLSys), 2021. <br>
