@@ -115,6 +115,9 @@ University of California, Berkeley, 2018. ([PDF](http://www2.eecs.berkeley.edu/P
 
 ## Selected Invited Talks
 
+- **ML for Autotuning Production ML Compilers.** <br>
+  ML for Systems Workshop (NeurIPS), 2021. ([slides](talks/2021_ml_for_systems.pdf))
+  
 - **Machine Learning for Machine Learning Compilers.** <br>
   ME344S HPC-AI Guest Lecture, Stanford, 2020. ([slides](talks/202007_ml_for_ml_compilers_stanford.pdf))
   
