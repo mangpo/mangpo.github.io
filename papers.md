@@ -4,6 +4,21 @@ title: Publications
 ---
 ## Conference Papers
 
+- **Neural Architecture Search Using Property Guided Synthesis** <br>
+  Charles Jin, Phitchaya Mangpo Phothilimthana, and Sudip Roy <br>
+  Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2022. <br>
+  ([PDF](https://arxiv.org/pdf/2205.03960.pdf))
+  
+- **GRANITE: A Graph Neural Network Model for Basic Block Throughput Estimation** <br>
+  Ondrej Sykora, Phitchaya Mangpo Phothilimthana, Charith Mendis, and Amir Yazdanbakhsh <br>
+  IEEE International Symposium on Workload Characterization (IISWC), 2022. <br>
+  ([PDF](https://arxiv.org/pdf/2210.03894.pdf))
+  
+- **A Transferable Approach for Partitioning Machine Learning Models on Multi-Chip-Modules** <br>
+  Xinfeng Xie, Prakash Prabhu, Ulysse Beaugnon, Phitchaya Mangpo Phothilimthana, Sudip Roy, Azalia Mirhoseini, Eugene Brevdo, James Laudon, and Yanqi Zhou <br>
+  Conference on Machine Learning and Systems (MLSys), 2022. <br>
+  ([PDF](https://arxiv.org/pdf/2112.04041.pdf))
+  
 - **A Flexible Approach to Autotuning Multi-Pass Machine Learning Compilers** <br>
   Phitchaya Mangpo Phothilimthana et al. <br>
    Conference on Parallel Architectures and Compilation Techniques (PACT), 2021. <br>
