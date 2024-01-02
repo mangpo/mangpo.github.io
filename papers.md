@@ -2,7 +2,27 @@
 layout: default
 title: Publications
 ---
+## Blog Posts
+- **Advancements in machine learning for machine learning** <br>
+  Phitchaya Mangpo Phothilimthana and Bryan Perozzi.<br>
+  Google Research, 2023. ([post](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html))
+  
+- **Google Research, 2022 & beyond: ML & computer systems** <br>
+  Phitchaya Mangpo Phothilimthana and Adam Paszke.<br>
+  Google Research, 2023. ([post](https://blog.research.google/2023/02/google-research-2022-beyond-ml-computer.html))
+  
+  
 ## Conference Papers
+
+- **TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs** <br>
+  Phitchaya Mangpo Phothilimthana, Sami Abu-El-Haija, Kaidi Cao, Bahare Fatemi, Mike Burrows, Charith Mendis, and Bryan Perozzi. <br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2023. <br>
+  ([PDF](https://arxiv.org/pdf/2308.13490.pdf),  [slides](talks/2023_tpu_graphs_dataset.pdf))
+  
+- **Large Graph Property Prediction via Graph Segment Training** <br>
+  Kaidi Cao, Phitchaya Mangpo Phothilimthana, Sami Abu-El-Haija, Dustin Zelle, Yanqi Zhou, Charith Mendis, Jure Leskovec, and Bryan Perozzi. <br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2023. <br>
+  ([PDF](https://arxiv.org/pdf/2305.12322.pdf))
 
 - **Neural Architecture Search Using Property Guided Synthesis** <br>
   Charles Jin, Phitchaya Mangpo Phothilimthana, and Sudip Roy <br>
@@ -22,7 +42,7 @@ title: Publications
 - **A Flexible Approach to Autotuning Multi-Pass Machine Learning Compilers** <br>
   Phitchaya Mangpo Phothilimthana et al. <br>
    Conference on Parallel Architectures and Compilation Techniques (PACT), 2021. <br>
-  ([PDF](papers/xla-autotuning-pact2021.pdf), [slides](talks/2021-xla-autotuning-pact.pdf))
+  ([PDF](papers/xla-autotuning-pact2021.pdf),  [slides](talks/2021-xla-autotuning-pact.pdf))
   
 - **Equality Saturation for Tensor Graph Superoptimization** <br>
   Yichen Yang, Phitchaya Mangpo Phothilimthana, Yisu Remy Wang, Max Willsey, Sudip Roy, and Jacques Pienaar <br>
@@ -49,7 +69,7 @@ title: Publications
   Abhinav Jangda, Bastian Hagedorn, Henrik Barthels, Samuel J. Kaufman, 
   Vinod Grover, Emina Torlak, and Rastislav Bodik. <br>
   Architectural Support for Programming Language and Operating Systems (ASPLOS), 2019. <br>
-  ([PDF](papers/swizzle-inventor-asplos19.pdf), [slides](talks/1904_swizzle_inventor_asplos.pdf))
+  ([PDF](papers/swizzle-inventor-asplos19.pdf),  [slides](talks/1904_swizzle_inventor_asplos.pdf))
 
 - **Floem: A Programming System for NIC-Accelerated Network Applications.** <br>
   Phitchaya Mangpo Phothilimthana, Ming Liu, Antoine Kaufmann, Simon Peter, Rastislav Bodik, and Thomas Anderson. <br>
@@ -69,7 +89,7 @@ Summit oN Advances in Programming Languages (SNAPL), 2017. ([PDF](papers/symboli
 	     
 - **Compiling a Gesture Recognition Application for a Low-Power Spatial Architecture.** <br>
 Phitchaya Mangpo Phothilimthana, Michael Schuldt, and Rastislav Bodik. <br>
-Conference on Languages, Compilers, Tools and Theory for Embedded Systems (LCTES), 2016. ([PDF](papers/chlorophyll-gesture-lctes16.pdf), [slides](talks/1606_chlorophyll_gesture.pdf))
+Conference on Languages, Compilers, Tools and Theory for Embedded Systems (LCTES), 2016. ([PDF](papers/chlorophyll-gesture-lctes16.pdf),  [slides](talks/1606_chlorophyll_gesture.pdf))
 
 - **Scaling up Superoptimization.** <br>
 Phitchaya Mangpo Phothilimthana, Aditya Thakur, Rastislav Bodik, and Dinakar Dhurjati. <br>
@@ -82,7 +102,7 @@ Conference on Compiler Construction (CC), 2016. ([PDF](papers/greenthumb_cc2016.
 
 - **Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures.** <br>
 Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. <br>
-Programming Languages Design and Implementation (PLDI), 2014. ([PDF](papers/chlorophyll-pldi14.pdf), [slides](talks/1406_pldi_chlorophyll.pdf))
+Programming Languages Design and Implementation (PLDI), 2014. ([PDF](papers/chlorophyll-pldi14.pdf),  [slides](talks/1406_pldi_chlorophyll.pdf))
 
 - **Communication-Minimizing 2D Convolution in GPU Registers.** <br>
 Forrest Iandola, David Sheffield, Michael Anderson, Phitchaya Mangpo Phothilimthana, and Kurt Keutzer. <br>
@@ -95,6 +115,7 @@ Architectural Support for Programming Language and Operating Systems (ASPLOS), 2
 - **Short and Simple Cycle Separators in Planar Graphs.** <br>
 Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Sommer. <br>
 Algorithm Engineering and Experiments (ALENEX), 2013. ([PDF](papers/cycleseparator-alenex13.pdf))
+
 
 ## Journal & Workshop Papers
 
@@ -116,7 +137,7 @@ Temporal Web Analytics Workshop (TempWeb), 2015. ([PDF](http://www.www2015.it/do
 
 - **A Comparison of Error Metrics for Learning Model Parameters in Bayesian Knowledge Tracing.** <br>
 Phitchaya Mangpo Phothilimthana, Asif Dhanani, Seung Yeon Lee, and Zachary Pardos. <br>
-Bayesian Knowledge Tracing 20 Years Workshop (BKT20y), 2014. ([PDF](papers/bkt-error-metrics-bkt20y.pdf), [poster](papers/bkt-error-metrics-poster.pptx))
+Bayesian Knowledge Tracing 20 Years Workshop (BKT20y), 2014. ([PDF](papers/bkt-error-metrics-bkt20y.pdf),  [poster](papers/bkt-error-metrics-poster.pptx))
 
 - **MRSI module and SIVIC interface.** <br>
 Bjoern Menze, Mangpo Phothilimthana, Olson Beck, Jason Crane, and Polina Golland. <br>
@@ -128,13 +149,14 @@ National Alliance for Medical Image s Summer Project week (NAMIC), 2010. ([URL](
 Phitchaya Phothilimthana, Seung Yeon Lee, and Zachary Pardos. <br>
 University of California, Berkeley, 2018. ([PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-7.html))
 
+
 ## Selected Invited Talks
 
+- **Machine Learning for Machine Learning Compilers.** <br>
+  Stanford MLSys Seminar, 2023. ([slides](talks/2023_ml_for_ml_comiplers_stanford.pdf), [recording](https://www.youtube.com/watch?v=VASg2XNgj-4))
+  
 - **ML for Autotuning Production ML Compilers.** <br>
   ML for Systems Workshop (NeurIPS), 2021. ([slides](talks/2021_ml_for_systems.pdf))
-  
-- **Machine Learning for Machine Learning Compilers.** <br>
-  ME344S HPC-AI Guest Lecture, Stanford, 2020. ([slides](talks/202007_ml_for_ml_compilers_stanford.pdf))
   
 - **Self-Evolving Compilers.** <br>
   Conference of Program Synthesis, San Franciscos, 2019. ([slides](talks/1909_self_evolving_compilers.pdf))
