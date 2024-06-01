@@ -12,7 +12,24 @@ title: Publications
   Google Research, 2023. ([post](https://blog.research.google/2023/02/google-research-2022-beyond-ml-computer.html))
   
   
-## Conference Papers
+## Peer-Reviewed Papers
+
+- **Accelerating Retrieval-Augmented Language Model Serving with Speculation** <br>
+  Zhihao Zhang, Alan Zhu, Lijie Yang, Yihua Xu, Lanting Li, Phitchaya Mangpo Phothilimthana, Zhihao Jia. <br>
+  International Conference on Machine Learning (ICML), 2024. <br>
+  ([PDF](https://arxiv.org/abs/2401.14021))
+  
+- **Thesios: Synthesizing Accurate Counterfactual I/O Traces from I/O Samples.** <br>
+  Phitchaya Mangpo Phothilimthana, Saurabh Kadekodi, Soroush Ghodrati, Selene Moon, Martin Maas. <br>
+  Architectural Support for Programming Language and Operating Systems (ASPLOS), 2024. <br>
+  ([PDF](https://dl.acm.org/doi/10.1145/3620666.3651337),
+   [TRACES](https://github.com/google-research-datasets/thesios),
+   [slides](talks/2024_thesios_asplos.pdf))
+
+- **BRAINSTORM: Supercharging Innovation with AI-Driven Ideation.** <br>
+  Gemini, Deniz Altınbüken, Martin Maas, Phitchaya Mangpo Phothilimthana. <br>
+  ASPLOS Wild and Crazy Ideas (WACI), 2019. <br>
+  ([PDF](https://asplos-conference.org/wp-content/uploads/2024/WACI/WACI-5.pdf))
 
 - **TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs** <br>
   Phitchaya Mangpo Phothilimthana, Sami Abu-El-Haija, Kaidi Cao, Bahare Fatemi, Mike Burrows, Charith Mendis, and Bryan Perozzi. <br>
@@ -59,6 +76,14 @@ title: Publications
   Advances in Neural Information Processing Systems (NeurIPS), 2020. <br>
   ([PDF](https://arxiv.org/pdf/2010.12438.pdf))
 
+- **Learning Local Advantage Functions for Generalizable Graph Optimizations** <br>
+  Yifan Wu, Yanqi Zhou, Phitchaya Mangpo Phothilimthana, Hanxiao Liu, Sudip Roy, and Azalia Mirhoseini.<br>
+  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2020. <br> ([PDF](https://mlforsystems.org/assets/papers/neurips2020/learning_wu_2020.pdf))
+
+- **Learned TPU Cost Model for XLA Tensor Programs** <br>
+  Samuel J. Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
+  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2019. <br> ([PDF](http://mlforsystems.org/assets/papers/neurips2019/learned_tpu_kaufman_2019.pdf))
+  
 - **E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers** <br>
   Ming Liu, Simon Peter, Arvind Krishnamurthy, and Phitchaya Mangpo Phothilimthana. <br>
   USENIX Annual Technical Conference (ATC), 2019. <br>
@@ -86,6 +111,12 @@ title: Publications
 - **Domain-Specific Symbolic Compilation** <br>
   Rastislav Bodik, Kartik Chandra, Phitchaya Phothilimthana, and Nathaniel Yazdani. <br>
 Summit oN Advances in Programming Languages (SNAPL), 2017. ([PDF](papers/symbolic-compiler-snapl17.pdf))
+
+
+- **Short and Simple Cycle Separators in Planar Graphs.** <br>
+Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Sommer. <br>
+Journal of Experimental Algorithmics (JEA), 2016. ([PDF](papers/cycleseparator-jea16.pdf))
+
 	     
 - **Compiling a Gesture Recognition Application for a Low-Power Spatial Architecture.** <br>
 Phitchaya Mangpo Phothilimthana, Michael Schuldt, and Rastislav Bodik. <br>
@@ -100,9 +131,19 @@ Architectural Support for Programming Language and Operating Systems (ASPLOS), 2
 Phitchaya Mangpo Phothilimthana, Aditya Thakur, Rastislav Bodik, and Dinakar Dhurjati. <br>
 Conference on Compiler Construction (CC), 2016. ([PDF](papers/greenthumb_cc2016.pdf), [demo](https://youtu.be/3l7Z7kB5p3g))
 
+
+- **Dicer: A Framework for Controlled, Large-Scale Web Experiments.** <br>
+Sarah Chasins and Phitchaya Mangpo Phothilimthana
+Temporal Web Analytics Workshop (TempWeb), 2015. ([PDF](http://www.www2015.it/documents/proceedings/companion/p1321.pdf))
+
+
 - **Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures.** <br>
 Phitchaya Mangpo Phothilimthana, Tikhon Jelvis, Rohin Shah, Nishant Totla, Sarah Chasins, and Rastislav Bodik. <br>
 Programming Languages Design and Implementation (PLDI), 2014. ([PDF](papers/chlorophyll-pldi14.pdf),  [slides](talks/1406_pldi_chlorophyll.pdf))
+
+- **A Comparison of Error Metrics for Learning Model Parameters in Bayesian Knowledge Tracing.** <br>
+Phitchaya Mangpo Phothilimthana, Asif Dhanani, Seung Yeon Lee, and Zachary Pardos. <br>
+Bayesian Knowledge Tracing 20 Years Workshop (BKT20y), 2014. ([PDF](papers/bkt-error-metrics-bkt20y.pdf),  [poster](papers/bkt-error-metrics-poster.pptx))
 
 - **Communication-Minimizing 2D Convolution in GPU Registers.** <br>
 Forrest Iandola, David Sheffield, Michael Anderson, Phitchaya Mangpo Phothilimthana, and Kurt Keutzer. <br>
@@ -116,34 +157,18 @@ Architectural Support for Programming Language and Operating Systems (ASPLOS), 2
 Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Sommer. <br>
 Algorithm Engineering and Experiments (ALENEX), 2013. ([PDF](papers/cycleseparator-alenex13.pdf))
 
-
-## Journal & Workshop Papers
-
-- **Learning Local Advantage Functions for Generalizable Graph Optimizations** <br>
-  Yifan Wu, Yanqi Zhou, Phitchaya Mangpo Phothilimthana, Hanxiao Liu, Sudip Roy, and Azalia Mirhoseini.<br>
-  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2020. <br> ([PDF](https://mlforsystems.org/assets/papers/neurips2020/learning_wu_2020.pdf))
-
-- **Learned TPU Cost Model for XLA Tensor Programs** <br>
-  Samuel J. Kaufman, Phitchaya Mangpo Phothilimthana, and Mike Burrows. <br>
-  ML for Systems Workshop at Neural Information Processing Systems (NeurIPS), 2019. <br> ([PDF](http://mlforsystems.org/assets/papers/neurips2019/learned_tpu_kaufman_2019.pdf))
-
-- **Short and Simple Cycle Separators in Planar Graphs.** <br>
-Eli Fox-Epstein, Shay Mozes, Phitchaya Mangpo Phothilimthana, and Christian Sommer. <br>
-Journal of Experimental Algorithmics (JEA), 2016. ([PDF](papers/cycleseparator-jea16.pdf))
-
-- **Dicer: A Framework for Controlled, Large-Scale Web Experiments.** <br>
-Sarah Chasins and Phitchaya Mangpo Phothilimthana
-Temporal Web Analytics Workshop (TempWeb), 2015. ([PDF](http://www.www2015.it/documents/proceedings/companion/p1321.pdf))
-
-- **A Comparison of Error Metrics for Learning Model Parameters in Bayesian Knowledge Tracing.** <br>
-Phitchaya Mangpo Phothilimthana, Asif Dhanani, Seung Yeon Lee, and Zachary Pardos. <br>
-Bayesian Knowledge Tracing 20 Years Workshop (BKT20y), 2014. ([PDF](papers/bkt-error-metrics-bkt20y.pdf),  [poster](papers/bkt-error-metrics-poster.pptx))
-
 - **MRSI module and SIVIC interface.** <br>
 Bjoern Menze, Mangpo Phothilimthana, Olson Beck, Jason Crane, and Polina Golland. <br>
 National Alliance for Medical Image s Summer Project week (NAMIC), 2010. ([URL](http://www.na-mic.org/Wiki/index.php/2010_Summer_Project_Week_MRSI_module_and_SIVIC_interface))
 
-## Technical Reports
+
+## arXiv & Technical Reports
+
+
+- **Optimizing Memory Mapping Using Deep Reinforcement Learning.** <br>
+Pengming Wang, Mikita Sazanovich, Berkin Ilbeyi, Phitchaya Mangpo Phothilimthana, Manish Purohit, Han Yang Tay, Ngân Vũ, Miaosen Wang, Cosmin Paduraru, Edouard Leurent, Anton Zhernov, Po-Sen Huang, Julian Schrittwieser, Thomas Hubert, Robert Tung, Paula Kurylowicz, Kieran Milan, Oriol Vinyals, Daniel J. Mankowitz. <br>
+arXiv, 2023. ([PDF](https://arxiv.org/abs/2305.07440))
+
 
 - **Dueling Metrics: Choosing the Appropriate Error Metric for Models of Cognition in the Learning Analytics Field.** <br>
 Phitchaya Phothilimthana, Seung Yeon Lee, and Zachary Pardos. <br>
