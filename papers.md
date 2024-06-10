@@ -28,7 +28,7 @@ title: Publications
 
 - **BRAINSTORM: Supercharging Innovation with AI-Driven Ideation.** <br>
   Gemini, Deniz Altınbüken, Martin Maas, Phitchaya Mangpo Phothilimthana. <br>
-  ASPLOS Wild and Crazy Ideas (WACI), 2019. <br>
+  ASPLOS Wild and Crazy Ideas (WACI), 2024. <br>
   ([PDF](https://asplos-conference.org/wp-content/uploads/2024/WACI/WACI-5.pdf))
 
 - **TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs** <br>
